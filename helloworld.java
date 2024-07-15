@@ -4,8 +4,8 @@ public class helloworld {
         System.out.println("hello jenkins..........");
 
         for (int i=0;i<10;i++){
-            int k=i2;
-            System.out.prinln("No: "+k);
+            int k=i*2;
+            System.out.println("No: "+k);
         }
 
     }
