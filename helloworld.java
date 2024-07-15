@@ -7,8 +7,6 @@ public class helloworld {
             int k=i2;
             System.out.prinln("No: "+k);
         }
-        for(int j=0;j<20;j+){
-            System.out.println("new No: "+j);
-        }
+
     }
 }
